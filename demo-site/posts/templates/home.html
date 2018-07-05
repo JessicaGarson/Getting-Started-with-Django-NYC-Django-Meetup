@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block body %}
+<div class="jumbotron">
+  <h1>Messages!</h1>
+  <p>Messages appear here:</p>
+  <ul>
+    {% for post in object_list %}
+      <li><p class="lead">{{ post }}</p></li>
+    {% endfor %}
+  </ul>
+{% endblock %}
