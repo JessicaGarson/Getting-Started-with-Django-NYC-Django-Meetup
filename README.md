@@ -1,7 +1,7 @@
 # Getting Started with Django
 
 ## Sample Site
-[A sample site the demo can be found here.](https://mysterious-plateau-15262.herokuapp.com/)
+[A sample site for the demo can be found here.](https://mysterious-plateau-15262.herokuapp.com/)
 
 ## Slides
 [Slides can be found here](http://jessicagarson.com/getting-started-with-django/)
